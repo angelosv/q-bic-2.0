@@ -40,7 +40,7 @@
     "js-cookie": "^2.2.1",
     "material-kit-react": "^1.8.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nouislider": "14.0.2",
     "react-addons-css-transition-group": "^15.6.2",
     "react-animate-on-scroll": "2.1.5",
